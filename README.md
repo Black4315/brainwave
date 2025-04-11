@@ -1,22 +1,22 @@
 # 🧠 Brainwave
 
-**Explore the Possibilities of AI Chatting with BrainwaveCurve**  
-Unleash the power of AI within Brainwave. Upgrade your productivity with Brainwave – the open AI chat app.
+A sleek and futuristic landing page for an AI chatbot – **BrainwaveCurve**.  
+It highlights the potential, benefits, and roadmap of the product using bold visuals and immersive animations.
 
 ## ✨ Highlights
 
-- 🚀 **Beautiful Sections** – Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
-- 🌀 **Parallax Animations** – Engaging effects triggered by mouse movement and scrolling.
-- 🧩 **Complex UI Geometry** – Custom shapes using Tailwind CSS like circular feature displays, grid lines, and side lines.
-- 📐 **Latest UI Trends** – Modern layouts including Bento grids, flexible cards, and more.
-- 🎨 **Cool Gradients** – Smooth and stylish gradients on cards, buttons, and backgrounds.
+- 🎯 Beautiful sections: Hero, Services, Features, How to Use, Roadmap, Pricing, Header, Footer
+- 🌀 Parallax animations triggered by mouse movement and scroll
+- 🧩 Complex UI geometry using Tailwind CSS (circular features, grid lines, angled sections)
+- 📐 Modern design trends including bento grids and soft glassmorphism
+- 🎨 Stylish gradients applied to cards, buttons, and sections
 
 ## 🛠️ Tech Stack
 
-- [Vite](https://vitejs.dev/) – Blazing fast dev environment
-- [React](https://reactjs.org/) – UI framework
-- [Tailwind CSS](https://tailwindcss.com/) – Utility-first styling
-- [GSAP](https://gsap.com/) – High-performance animations
+- [Vite](https://vitejs.dev/)
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [GSAP](https://gsap.com/)
 - Custom parallax logic (mouse + scroll)
 
 ## 📸 Preview
