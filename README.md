@@ -23,3 +23,6 @@ It highlights the potential, benefits, and roadmap of the product using bold vis
 
 ![Screenshot](./public/assets/screenshot.png)  
 [Live Demo](#) *(drop your link here)*
+
+## 📄 License
+MIT License © 2025 Yahia Badr
