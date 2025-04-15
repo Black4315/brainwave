@@ -21,7 +21,7 @@ It highlights the potential, benefits, and roadmap of the product using bold vis
 
 ## 📸 Preview
 
-![Screenshot](./src/assets/images/screenshot.png)  
+![Screenshot](./src/assets/screenshot.png)  
 [Live Demo](#) *(drop your link here)*
 
 ## 📄 License
