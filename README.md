@@ -22,7 +22,7 @@ It highlights the potential, benefits, and roadmap of the product using bold vis
 ## 📸 Preview
 
 ![Screenshot](./src/assets/screenshot.png)  
-[Live Demo](#) *(drop your link here)*
+🔗 [Live Demo](https://brainwave-2.web.app/)
 
 ## 📄 License
 MIT License © 2025 Yahia Badr
