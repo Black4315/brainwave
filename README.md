@@ -24,5 +24,12 @@ It highlights the potential, benefits, and roadmap of the product using bold vis
 ![Screenshot](./src/assets/screenshot.png)  
 🔗 [Live Demo](https://brainwave-2.web.app/)
 
+## 🧑‍💻 Let's Work Together
+
+I’m open for custom projects and freelance work!
+
+📩 Reach me at **[yahialord4315@gmail.com](mailto:yahialord4315@gmail.com)**  
+or check out my **[portfolio](https://portfolio25-one.vercel.app/)**.
+
 ## 📄 License
 MIT License © 2025 Yahia Badr
