@@ -5,7 +5,7 @@ It highlights the potential, benefits, and roadmap of the product using bold vis
 
 ## ✨ Highlights
 
-- 🎯 Beautiful sections: Hero, Services, Features, How to Use, Roadmap, Pricing, Header, Footer
+- 🎯 Beautiful sections: Hero, Services, Benefits, Collaboration, Roadmap, Pricing, Header, Footer
 - 🌀 Parallax animations triggered by mouse movement and scroll
 - 🧩 Complex UI geometry using Tailwind CSS (circular features, grid lines, angled sections)
 - 📐 Modern design trends including bento grids and soft glassmorphism
@@ -16,7 +16,7 @@ It highlights the potential, benefits, and roadmap of the product using bold vis
 - [Vite](https://vitejs.dev/)
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [GSAP](https://gsap.com/)
+- [Framer Motion](https://motion.dev/)
 - Custom parallax logic (mouse + scroll)
 
 ## 📸 Preview
