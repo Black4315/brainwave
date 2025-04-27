@@ -21,7 +21,7 @@ It highlights the potential, benefits, and roadmap of the product using bold vis
 
 ## 📸 Preview
 
-![Screenshot](./src/assets/screenshot.png)  
+![Screenshot](./public/ogimage720.png)  
 🔗 [Live Demo](https://brainwave-2.web.app/)
 
 ## 🧑‍💻 Let's Work Together

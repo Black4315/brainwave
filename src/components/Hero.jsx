@@ -8,6 +8,7 @@ import { heroIcons } from '../constants';
 import Notification from './Notification';
 import Generating from './Generating';
 import CompanyLogos from './CompanyLogos';
+import { TextGenerateEffect } from './ui/text-generate-effect';
 
 const Hero = () => {
     const parallaxRef = useRef(null);
@@ -22,7 +23,7 @@ const Hero = () => {
         >
             <div className="container relative">
                 <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
-                    <h1 className="h1 mb-6">
+                    {/* <h1 className="h1 mb-6">
                         Explore the Possibilities of AI&nbsp;Chatting with {` `}
                         <span className="inline-block relative">
                             Brainwave{" "}
@@ -34,7 +35,21 @@ const Hero = () => {
                                 alt="Curve"
                             />
                         </span>
-                    </h1>
+                    </h1> */}
+                    <TextGenerateEffect
+                        words="Explore the Possibilities of AI&nbsp;Chatting with"
+                        CustomWord={<span className="inline-block relative">
+                            Brainwave{" "}
+                            <img
+                                src={curve}
+                                className="absolute top-full left-0 w-full xl:-mt-2"
+                                width={624}
+                                height={28}
+                                alt="Curve"
+                            />
+                        </span>}
+                        className="text-center h1 mb-6"
+                    />
                     <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
                         Unleash the power of AI within Brainwave. Upgrade your productivity
                         with Brainwave, the open AI chat app.
