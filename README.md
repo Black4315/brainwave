@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://brainwave-2.web.app/">
-    <img src="./public/og-github.png" alt="Brainwave Landing Page Preview" height="550"/>
+    <img src="./public/og-github.png" alt="Brainwave Landing Page Preview" height="450"/>
   </a>
   <br />
   <div>
@@ -24,7 +24,7 @@
 
 **Brainwave** is a futuristic product landing experience that showcases the features, vision, and value of an AI chatbot platform. It combines sophisticated motion design with bold UI elements to create an engaging user journey.
 
-
+---
 
 ## Highlights
 
@@ -34,7 +34,7 @@
 - Bento grid layout and modern soft glassmorphism for a refined interface  
 - Gradient-driven visual language applied consistently across the design
 
-
+---
 
 ## Tech Stack
 
@@ -48,6 +48,7 @@
 
 Live Preview [Explore the Brainwave Experience →](https://brainwave-2.web.app)
 
+---
 
 ## Contact
 
