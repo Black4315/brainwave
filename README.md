@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://brainwave-2.web.app/">
-    <img src="./public/og-github.png" alt="Brainwave Landing Page Preview" height="450"/>
+    <img src="./public/og-github.png" alt="Brainwave Landing Page Preview" />
   </a>
   <br />
   <div>
