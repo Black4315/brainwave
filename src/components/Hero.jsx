@@ -48,7 +48,7 @@ const Hero = () => {
                                 alt="Curve"
                             />
                         </span>}
-                        className="text-center h1 mb-6"
+                        className="text-center h1 mb-6 text-white"
                     />
                     <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
                         Unleash the power of AI within Brainwave. Upgrade your productivity
